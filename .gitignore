@@ -3,3 +3,5 @@ pruebamysql.sql
 server/.env
 server/node_modules
 package-lock.json
+
+admin-panel/src/.env
