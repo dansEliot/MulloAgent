@@ -1,2 +1,5 @@
 # Archivos de entorno
 pruebamysql.sql
+server/.env
+server/node_modules
+package-lock.json
