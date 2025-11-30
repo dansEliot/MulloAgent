@@ -165,5 +165,5 @@ app.post('/api/generate', async (req, res) => {
 app.get('/api/ping', (req,res) => res.json({ok:true, ts: new Date()}));
 
 /* Start server */
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => console.log(`API listening on ${PORT}`));
